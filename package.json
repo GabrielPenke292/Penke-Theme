@@ -2,7 +2,13 @@
   "name": "penke-theme",
   "displayName": "penke-theme",
   "description": "A modern dark theme for VS Code",
-  "publisher": "penke",
+  "publisher": "GabrielPenke",
+  "author": "Gabriel Penke",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GabrielPenke292/Penke-Theme"
+  },
   "version": "0.0.1",
   "icon": "icon.png",
   "engines": {

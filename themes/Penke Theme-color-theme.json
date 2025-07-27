@@ -1,10 +1,25 @@
 {
 	"name": "Penke Theme",
 	"colors": {
-		"editor.background": "#2c364f",
+		"editor.background": "#300A24",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#38e91d",
+		"sideBarTitle.foreground": "#38e91d",
+		"sideBar.background": "#1a0a1a",
+		"sideBar.foreground": "#38e91d",
+		"sideBarSectionHeader.background": "#240d1f",
+		"sideBarSectionHeader.foreground": "#38e91d",
+		"list.activeSelectionBackground": "#38e91d",
+		"list.activeSelectionForeground": "#ffffff",
+		"list.inactiveSelectionBackground": "#38e91d",
+		"list.inactiveSelectionForeground": "#ffffff",
+		"list.hoverBackground": "#240d1f",
+		"list.hoverForeground": "#38e91d",
+		"tree.indentGuidesStroke": "#38e91d",
+		"activityBar.background": "#1a0a1a",
+		"activityBar.foreground": "#38e91d",
+		"activityBar.activeBorder": "#38e91d",
+		"activityBar.activeBackground": "#240d1f"
 	},
 	"tokenColors": [
 		{
