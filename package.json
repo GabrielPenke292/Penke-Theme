@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/GabrielPenke292/Penke-Theme"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.40.0",
