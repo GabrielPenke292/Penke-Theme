@@ -1,0 +1,49 @@
+{
+  "name": "penke-theme",
+  "displayName": "Penke Theme",
+  "description": "A beautiful and modern dark theme for Cursor inspired by classic Linux terminal aesthetics. Features a sophisticated burgundy background with vibrant green accents, providing excellent syntax highlighting and a comfortable coding experience.",
+  "version": "0.0.2",
+  "publisher": "GabrielPenke",
+  "author": {
+    "name": "Gabriel Penke",
+    "email": "gabri.penke@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GabrielPenke292/Penke-Theme"
+  },
+  "homepage": "https://github.com/GabrielPenke292/Penke-Theme#readme",
+  "bugs": {
+    "url": "https://github.com/GabrielPenke292/Penke-Theme/issues"
+  },
+  "engines": {
+    "cursor": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "linux",
+    "terminal",
+    "burgundy",
+    "green",
+    "syntax-highlighting"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Penke Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Penke Theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#300A24",
+    "theme": "dark"
+  }
+} 

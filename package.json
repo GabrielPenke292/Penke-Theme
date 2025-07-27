@@ -1,7 +1,7 @@
 {
   "name": "penke-theme",
   "displayName": "penke-theme",
-  "description": "A modern dark theme for VS Code",
+  "description": "A beautiful and modern dark theme for VS Code and Cursor inspired by classic Linux terminal aesthetics. Features a sophisticated burgundy background with vibrant green accents.",
   "publisher": "GabrielPenke",
   "author": "Gabriel Penke",
   "license": "MIT",
@@ -9,10 +9,11 @@
     "type": "git",
     "url": "https://github.com/GabrielPenke292/Penke-Theme"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "icon.png",
   "engines": {
-    "vscode": "^1.102.0"
+    "vscode": "^1.102.0",
+    "cursor": "^1.0.0"
   },
   "categories": [
     "Themes"
@@ -25,5 +26,11 @@
         "path": "./themes/Penke Theme-color-theme.json"
       }
     ]
+  },
+  "cursor": {
+    "compatible": true,
+    "aiFeatures": {
+      "enabled": true
+    }
   }
 }
