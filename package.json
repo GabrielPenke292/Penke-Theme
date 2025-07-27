@@ -1,0 +1,23 @@
+{
+  "name": "penke-theme",
+  "displayName": "penke-theme",
+  "description": "A modern dark theme for VS Code",
+  "publisher": "penke",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Penke Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Penke Theme-color-theme.json"
+      }
+    ]
+  }
+}
