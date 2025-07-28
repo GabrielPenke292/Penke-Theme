@@ -143,7 +143,7 @@ This theme is open source and available under the [MIT License](LICENSE).
 
 **🎨 Enjoy coding with Penke Theme!** 
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/penke-theme?style=social)](https://github.com/yourusername/penke-theme)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/penke-theme?style=social)](https://github.com/yourusername/penke-theme)
+[![GitHub stars](https://img.shields.io/github/stars/GabrielPenke292/penke-theme?style=social)](https://github.com/yourusername/penke-theme)
+[![GitHub forks](https://img.shields.io/github/forks/GabrielPenke292/penke-theme?style=social)](https://github.com/yourusername/penke-theme)
 
 </div>
