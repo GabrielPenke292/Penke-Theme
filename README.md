@@ -4,7 +4,7 @@
 
 [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-0.0.1-orange?style=for-the-badge)](package.json)
+[![Version](https://img.shields.io/badge/Version-0.0.6-orange?style=for-the-badge)](package.json)
 
 ---
 
